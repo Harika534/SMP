@@ -1,1 +1,1 @@
-# SMP
+# Student Management Project
