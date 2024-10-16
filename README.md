@@ -1,1 +1,1 @@
-# School Management Project
+# Student Management Project
